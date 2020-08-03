@@ -1,5 +1,5 @@
 class Dog
-    def woof
+    def bark
         puts "Woof!"
     end
 
